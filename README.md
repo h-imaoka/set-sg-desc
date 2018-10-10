@@ -23,3 +23,6 @@ dry-run
 
 apply
 `docker-compose run --rm set-sg-desc.py < sample-list`
+
+# docker-image
+https://hub.docker.com/r/himaoka/set-sg-desc/
